@@ -32,9 +32,7 @@ metadata:
   name: test-rbac
 subjects:
   - kind: ServiceAccount
-    # Reference to upper's `metadata.name`
-    name: test-service-account
-    # Reference to upper's `metadata.namespace`
+    name: k8s-provisioning-apis-account
     namespace: default
 roleRef:
   kind: ClusterRole
