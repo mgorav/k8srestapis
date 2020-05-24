@@ -42,6 +42,6 @@ roleRef:
 
 ## Ready to play
 
-Hit the swagger url
+Hit the swagger url - http://localhost:9191/swagger-ui.html
 
 ![alt text](k8sasservice.png)
