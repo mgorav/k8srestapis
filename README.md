@@ -39,3 +39,9 @@ roleRef:
   name: cluster-admin
   apiGroup: rbac.authorization.k8s.io
 ````
+
+## Ready to play
+
+Hit the swagger url
+
+![alt text](k8sasservice.png)
